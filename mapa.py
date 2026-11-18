@@ -37,4 +37,3 @@ from mapa import mapa_romenia, heuristica_bucareste
 
 print('Quantidade de cidades no mapa:', len(mapa_romenia))
 print('Quantidade de valores de h(n):', len(heuristica_bucareste))
-
